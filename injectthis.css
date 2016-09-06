@@ -1,0 +1,58 @@
+@import 'https://fonts.googleapis.com/css?family=Lato|Roboto';
+
+body {
+    background-color: #ECF0F1 !important;
+    font-family: 'Roboto';
+}
+
+h1 {
+    color: #2980B9 !important;
+}
+
+h2 {
+    color: #3498DB !important;
+}
+
+li {
+    line-height: 2em;
+}
+
+p {
+    line-height: 1.5em;
+}
+
+a {
+    color: #E74C3C !important;
+}
+
+body {
+    padding: 0 25%;
+    color: #2C3E50 !important;
+}
+
+figcaption {
+    display: block;
+    border-top: 1px solid #ccc !important;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+
+figure {
+    padding-bottom: 20px;
+    font-style: italic;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+figcaption:before {
+    content: "Figure : ";
+}
+
+code {
+    font-family: consolas;
+    border: 1px solid #ccc !important;
+    padding: 0 10px;
+    border-radius: 5px;
+    background-color: #fff !important;
+}
